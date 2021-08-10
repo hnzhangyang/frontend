@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div @click="exportExcel">点我下载</div>
+    <div @click="exportExcel">点我下2载</div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
